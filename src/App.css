@@ -1,0 +1,36 @@
+.flexColumn{
+  display: flex;
+  flex-direction: column;
+}
+.flex{
+  display: flex;
+}
+
+.para{
+  font-size: 18px;
+}
+.choose{
+  font-weight: 100;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.fullFlex{
+  display: flex;
+  align-items: center;
+  align-items: center;
+  justify-content:center ;
+  flex-direction: column;
+}
+
+.rules{
+  margin-top: 20px;
+  padding: 10px 30px;
+  background-color: rgb(234, 209, 209);
+}
+
+.warning{
+  letter-spacing: .5px;
+  color: red;
+  font-weight: 100;
+}
