@@ -1,8 +1,32 @@
-# React + Vite
+🎲 Dice Game - React App
+A simple and interactive dice game built with React.js. Players select a number, roll the dice, and earn or lose points based on the match.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+✅ Select a number (1-6) before rolling the dice.
+✅ Click the dice to roll and get a random number.
+✅ Earn points if the selected number matches the dice roll.
+✅ Lose points if the selected number doesn't match.
+✅ Reset the score anytime.
+✅ View game rules with a toggle option.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠 Tech Stack
+React.js (useState for state management)
+CSS Modules (for styling)
+JavaScript (game logic)
+
+
+
+📜 How to Play
+1️⃣ Select a number (1-6) by clicking a button.
+2️⃣ Click the dice image to roll.
+3️⃣ If your selected number matches the dice roll, you earn points! 🎉
+4️⃣ If it doesn’t match, you lose points. 😞
+5️⃣ Click Reset Score to restart anytime.
+
+
+👨‍💻 Contributing
+Want to improve the game? Feel free to fork the repo, make your changes, and submit a pull request! 🎯
+
+📜 License
+This project is open-source and free to use.
